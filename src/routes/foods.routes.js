@@ -8,5 +8,7 @@ const foodsController = new FoodsController();
 
 foodsRoutes.post("/", foodsController.create);
 foodsRoutes.get("/:id", foodsController.show);
+foodsRoutes.delete("/:id", foodsController.delete);
+foodsRoutes.get("/", foodsController.index);
 
 module.exports = foodsRoutes;
