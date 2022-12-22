@@ -4,10 +4,10 @@ A complete application with Reactjs and Node, in which the admin can register di
 
 Link to access code [Front-end](https://github.com/rauleffting/foodexplorer)!
 
-Feel free to test: https://starmovies94.netlify.app/
+Feel free to test: https://foodexplorer-94.herokuapp.com
 
 Technologies used in the Backend:
-- express
+- Express
 - NodeJS
 - SQLite (SQL)
 - Knex.js
