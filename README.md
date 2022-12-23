@@ -4,7 +4,7 @@ A complete application with Reactjs and Node, in which the admin can register di
 
 Link to access code [Front-end](https://github.com/rauleffting/foodexplorer)!
 
-Feel free to test: https://foodexplorer-94.herokuapp.com
+Feel free to test: https://foodexplorer-api-qutd.onrender.com
 
 Technologies used in the Backend:
 - Express
