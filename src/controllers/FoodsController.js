@@ -29,9 +29,9 @@ class FoodsController {
     const ingredientsInsert = ingredients.map(ingredient => {
       return {
         food_id,
-        name: ingredient
+        name : ingredient
       }
-    });
+    })
 
     await knex("ingredients").insert(ingredientsInsert);
 
