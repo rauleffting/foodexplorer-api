@@ -16,3 +16,8 @@ Technologies used in the Backend:
 email: admin@email.com
 
 password: admin
+
+#### Instructions:
+- Step 1: download.
+- Step 2: npm install.
+- Step 3: npm run build.
